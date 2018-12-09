@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edtgetway" type="id" />
+    <item name="imgView" type="id" />
+    <item name="tvSingIn" type="id" />
+    <item name="imgWisnu" type="id" />
+    <item name="edtEmail" type="id" />
+    <item name="frmLayout" type="id" />
+    <item name="edtPass" type="id" />
+    <item name="buttonForgot" type="id" />
+    <item name="btnSingIn" type="id" />
+    <item name="tv_nama" type="id" />
+    <item name="btnSignUp" type="id" />
+    <item name="layoutSignUp" type="id" />
+    <item name="tvSignUp" type="id" />
+    <item name="imgSignUp" type="id" />
+    <item name="tvUserName" type="id" />
+    <item name="edtUserName" type="id" />
+    <item name="edtRePass" type="id" />
+    <item name="tvRePass" type="id" />
+    <item name="tvPass" type="id" />
+    <item name="edtPassSingUp" type="id" />
+    <item name="tvEmaiSignUp" type="id" />
+    <item name="edtEmailSignUp" type="id" />
+    <item name="btnRegister" type="id" />
+    <item name="btnSend" type="id" />
+    <item name="imgData" type="id" />
+    <item name="tvData" type="id" />
+</resources>

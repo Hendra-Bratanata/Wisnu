@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Wisnu</string>
+    <string name="sing_in_to_wisnu">Sign In To Wisnu</string>
+    <string name="sing_in_to_wisnu2">Setting Gatway</string>
+    <string name="email">Email</string>
+    <string name="getway">Masukan url getway</string>
+    <string name="password">Password</string>
+    <string name="singIn">SIGN IN</string>
+    <string name="SINGuP">DON\'T HAVE AN ACCOUNT ?</string>
+    <string name="sing_up">SIGN UP</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="barca">Barcelona</string>
+    <string name="userName">User Name</string>
+    <string name="rePass">Re Password</string>
+    <string name="pass">Password</string>
+    <string name="emailSignUp">Email</string>
+    <string name="register">Register</string>
+    <string name="ids">ID       :</string>
+    <string name="ichirogateaWay">http://ichiro.tech/data.php</string>
+
+
+</resources>
